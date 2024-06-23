@@ -1,0 +1,42 @@
+.gallery .gallery-item {
+    box-shadow: 1px 1px 1px #00000014;
+    background-color: white;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.mf-flag {
+    left: 0;
+    top: 45%;
+}
+
+.gallery .car-picture img.picture-view {
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.gallery .car-in-gallery .item-icons {
+    right: 10px;
+    top: 25px;
+}
+
+.gallery .car-in-gallery {
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    box-shadow: 1px 1px 1px #00000014;
+}
+.gallery .car-in-gallery img.picture-view {
+    width: 100% !important;
+}
+.gallery .car-in-gallery img {
+    width: auto !important;
+}

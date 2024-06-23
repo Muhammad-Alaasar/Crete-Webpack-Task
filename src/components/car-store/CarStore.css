@@ -1,0 +1,39 @@
+.description h6 {
+    color: #969696;
+}
+.description h4 {
+    color: #d52529;
+}
+.item-icons {
+    right: 10px;
+    top: 10px;
+}
+.car-item {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: white;
+    box-shadow: 1px 1px 1px #00000008;
+}
+
+.car-item img.item-image {
+    border-radius: 10px 10px 0 0;
+    -webkit-border-radius: 10px 10px 0 0;
+    -moz-border-radius: 10px 10px 0 0;
+    -ms-border-radius: 10px 10px 0 0;
+    -o-border-radius: 10px 10px 0 0;
+}
+
+.favorite-icon,
+.compare-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: rgba(246, 247, 249, 0.96);
+}
+
+.car-item img:not(.item-image) {
+    width: auto !important;
+}

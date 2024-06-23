@@ -1,0 +1,11 @@
+.login-anchor {
+    background-color: white;
+    color: red;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+
+ul.navbar-nav {
+    gap: 1.5rem;
+    align-items: center;
+}

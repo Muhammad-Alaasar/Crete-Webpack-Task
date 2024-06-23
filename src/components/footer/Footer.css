@@ -1,0 +1,27 @@
+footer {
+    padding: 80px 0;
+    margin-top: 60px;
+}
+
+footer .footer-logo::before,
+footer .footer-logo::after {
+    content: '';
+    height: 6px;
+    width: 35%;
+    display: block;
+    background: linear-gradient(90deg, #db323e, #222222 90%);
+    position: absolute;
+    top: 21px;
+    left: 0;
+}
+
+footer .footer-logo::after {
+    background: linear-gradient(270deg, #db323e, #222222 90%);
+    top: 21px;
+    left: unset;
+    right: 0;
+}
+
+.footer-links li {
+    margin-top: 20px;
+}

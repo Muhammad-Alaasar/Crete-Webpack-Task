@@ -1,0 +1,43 @@
+.safe-way {
+    margin: 80px 0;
+    min-height: 500px;
+    background: url('../../assets//images/mf-bg.png') no-repeat center center;
+    background-size: 50%;
+    padding: 40px 60px;
+}
+
+.safe-way h3 {
+    color: #d52529;
+}
+
+.safe-way ul {
+    list-style-position: inside;
+}
+
+.safe-way .discover-btn {
+    background-color: #db323e;
+    padding-right: 100px;
+    padding-left: 100px;
+    color: white;
+}
+
+.safe-way .replace-car img {
+    width: 100%;
+    clip-path: polygon(0 0, 80% 0%, 100% 100%, 0% 100%);
+    border-radius: 10px;
+}
+
+.safe-way .replace-car h2 {
+    font-size: 60px;
+    color: #db323e;
+    margin-bottom: 50px;
+}
+
+.safe-way .password img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.safe-way ul li {
+    margin-top: 15px;
+}
